@@ -1,0 +1,19 @@
+Contesto: Mobile, FaceID per autorizzazione accesso 
+App: Facebook, Account personale già esistente, comando vocale 
+
+1. Login su applicazione
+   1.1 Inserisco Username 
+   1.2 Inserisco Password 
+2. Attiva microfono per ricevere il comando di richiesta
+3. Input ricerca: News del giorno
+   3.1 Cerco tra le News del giorno
+       3.1.1 Accedere a categoria "News"
+       3.1.2 Selezionare il giorno corrente
+4. Leggo i titoli degli articoli nella categoria News 
+5. Attivazione microfono per ricevere altro input
+6. Input ricerca: Sport
+   3.1 Cerco tra le News del giorno
+      3.1.1 Entro nella sezione "Sport" 
+7. Ricezione Input
+   7.1 Fermo lettura dei titoli
+   7.2 Leggo primo articolo nella sezione "Sport"
